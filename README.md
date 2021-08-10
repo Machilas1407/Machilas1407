@@ -1,4 +1,4 @@
-### Oiii! Eu sou o Marcello Máchilas
+### Olá! Eu sou o Marcello Máchilas
 
 - 🔭 Hoje eu trabalho com front-end ( VueJs, React)
 - 🌱 Estou estudando NodeJS, GoLang e Cypress.
