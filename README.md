@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcello Máchilas
 
-- 🔭 Hoje eu trabalho com front-end ( VueJs, React)
+- 🔭 Hoje eu trabalho com front-end ( VueJs, React )
 - 🌱 Estou estudando NodeJS, GoLang e Cypress.
 - 📫 Contate-me no email: marcello.machilas@gmail.com
 
