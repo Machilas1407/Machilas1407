@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho com front-end ( VueJs, React )
 - 🌱 Estou estudando NodeJS, GoLang e Cypress.
-- 📫 Contate-me no email: marcello.machilas@gmail.com
+- 📫 Contate-me no email:  marcello.machilas@gmail.com
   ##
  
 <div> 
