@@ -19,14 +19,14 @@
 &nbsp;
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Machilas1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machilas1407&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Machilas1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Machilas1407&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 &nbsp;
 
 <div>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Machilas1407&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Machilas1407&theme=tokyonight&hide_border=true"/>
 </div>
 
 &nbsp;
@@ -53,7 +53,7 @@
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -68,7 +68,11 @@
 
 &nbsp;
 
-
+<!--
+  Gráfico de "cobrinha" animado com o histórico de contribuições.
+  Para isso funcionar, adicione o workflow do Platane/snk no seu
+  repositório Machilas1407/Machilas1407 (veja a nota abaixo do README).
+-->
 <div>
   <img src="https://raw.githubusercontent.com/Machilas1407/Machilas1407/output/github-contribution-grid-snake.svg"/>
 </div>
