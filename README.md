@@ -14,11 +14,11 @@
   <tr>
     <td width="60%" valign="top">
       <h3>👨🏻‍💻 Sobre Mim</h3>
-      <p>Desenvolvedor Full Stack com forte atuação na arquitetura de plataformas digitais para gestão pública, mobilidade e saúde. Atualmente, sou <b>Engenheiro de Software Sênior na ONTL — Infra S.A. (Ministério dos Transportes)</b>.</p>
+      <p>Desenvolvedor Full Stack com forte atuação na arquitetura de plataformas digitais para gestão pública, mobilidade e saúde. Atualmente, sou <b>Engenheiro de Software Sênior na ONTL — Infra S.A. (Ministério dos Transportes)</b>[cite: 2].</p>
       <ul>
-        <li>🚀 <b>Foco:</b> Aplicações geoespaciais, roteirização inteligente e dashboards analíticos.</li>
-        <li>🎓 <b>Formação:</b> Tecnólogo em Análise e Desenvolvimento de Sistemas (2021) e Pós-graduando em Engenharia de Software com Inteligência Artificial.</li>
-        <li>💡 <b>Projetos de Destaque:</b> <i>Rota Segura</i> (cálculo de riscos rodoviários com Leaflet/PostGIS), <i>Espaço Conecta</i>, simuladores para transporte de cargas e integração de dados georreferenciados.</li>
+        <li>🚀 <b>Foco:</b> Aplicações geoespaciais, roteirização inteligente e dashboards analíticos[cite: 2].</li>
+        <li>🎓 <b>Formação:</b> Tecnólogo em Análise e Desenvolvimento de Sistemas (2021)[cite: 2] e Pós-graduando em Engenharia de Software com Inteligência Artificial[cite: 2].</li>
+        <li>💡 <b>Projetos de Destaque:</b> <i>Rota Segura</i> (cálculo de riscos rodoviários com Leaflet/PostGIS)[cite: 2], <i>Espaço Conecta</i>[cite: 2], simuladores para transporte de cargas e integração de dados georreferenciados[cite: 2].</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
@@ -31,9 +31,52 @@
 
 ---
 
+### 🚀 Projetos em Produção
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://ontl.infrasa.gov.br/aplicacoes/rota-segura/" target="_blank">🗺️ Rota Segura</a></h4>
+      <p>Aplicação full stack para análise de rotas, cálculo de riscos rodoviários, geolocalização e visualização em mapas[cite: 2].</p>
+      <code>Vue.js</code> <code>Node.js</code> <code>Python</code> <code>Leaflet</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://conecta.infrasa.gov.br/login" target="_blank">🔗 Espaço Conecta</a></h4>
+      <p>Plataforma para gestão de propostas, startups, instituições e projetos de forma centralizada[cite: 2].</p>
+      <code>Vue.js</code> <code>PHP</code> <code>Laravel</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://ontl.infrasa.gov.br/dados/consulta-a-base-de-dados/" target="_blank">📊 APIM (Infra S.A.)</a></h4>
+      <p>Gerenciamento de datasets, informação georreferenciada, APIs, dashboards e documentação automatizada[cite: 2].</p>
+      <code>Vue.js</code> <code>PHP</code> <code>Laravel</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://simuladores.infrasa.gov.br/" target="_blank">🚛 Simuladores ONTL & TRIC</a></h4>
+      <p>Desenvolvimento de simuladores e ferramentas de cálculo focados no setor de transporte e geolocalização[cite: 2].</p>
+      <code>Vue.js</code> <code>PHP</code> <code>Laravel</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://nossochaomaceio.org/" target="_blank">🏛️ Nosso Chão Nossa História</a></h4>
+      <p>Sistema estruturado para a gestão de propostas, startups e projetos sociais ligado ao MPF e UNOPS[cite: 2].</p>
+      <code>Gestão Pública</code> <code>MPF</code> <code>UNOPS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://digisusgmp.saude.gov.br/" target="_blank">🏥 DigiSUS Gestor (SIPLAM)</a></h4>
+      <p>Gerenciamento de pessoas e atividades dentro do Ministério da Saúde[cite: 2].</p>
+      <code>Saúde Pública</code> <code>Gestão</code> <code>SUS</code>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Minha Caixa de Ferramentas
 
-Trabalho de ponta a ponta na arquitetura de software, escolhendo a tecnologia ideal para o contexto do negócio.
+Trabalho de ponta a ponta na arquitetura de software, escolhendo a tecnologia ideal para o contexto do negócio[cite: 2].
 
 <table align="center">
   <tr>
