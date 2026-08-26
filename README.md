@@ -19,21 +19,19 @@
 &nbsp;
 
 <div>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Machilas1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Machilas1407&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Machilas1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machilas1407&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 &nbsp;
 
 <div>
-  <!-- URL do Streak Stats corrigida para a oficial -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Machilas1407&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Machilas1407&theme=tokyonight&hide_border=true"/>
 </div>
 
 &nbsp;
 
 <div>
-  <!-- Tema do Activity Graph corrigido de tokyo-night para tokyonight -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Machilas1407&theme=tokyonight&hide_border=true&area=true"/>
 </div>
 
@@ -68,12 +66,10 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-&nbsp;
-
-<!-- 
-  Aviso: Para esta imagem funcionar, o workflow do GitHub Actions (Platane/snk) 
-  DEVE estar configurado e ter rodado com sucesso no seu repositório.
--->
+<!-- O gráfico da cobrinha foi comentado para não exibir imagem quebrada.
+     Descomente as linhas abaixo apenas após configurar o GitHub Actions:
+     
 <div>
   <img src="https://raw.githubusercontent.com/Machilas1407/Machilas1407/output/github-contribution-grid-snake.svg"/>
 </div>
+-->
