@@ -19,20 +19,20 @@
 &nbsp;
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Machilas1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machilas1407&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Machilas1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Machilas1407&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 &nbsp;
 
 <div>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Machilas1407&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Machilas1407&theme=tokyonight&hide_border=true"/>
 </div>
 
 &nbsp;
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Machilas1407&theme=tokyonight&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Machilas1407&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 &nbsp;
@@ -66,10 +66,13 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<!-- O gráfico da cobrinha foi comentado para não exibir imagem quebrada.
-     Descomente as linhas abaixo apenas após configurar o GitHub Actions:
-     
+&nbsp;
+
+<!--
+  Gráfico de "cobrinha" animado com o histórico de contribuições.
+  Para isso funcionar, adicione o workflow do Platane/snk no seu
+  repositório Machilas1407/Machilas1407 (veja a nota abaixo do README).
+-->
 <div>
   <img src="https://raw.githubusercontent.com/Machilas1407/Machilas1407/output/github-contribution-grid-snake.svg"/>
 </div>
--->
