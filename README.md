@@ -126,12 +126,10 @@ Trabalho de ponta a ponta na arquitetura de software, escolhendo a tecnologia id
   <summary><b>📈 Mostrar painel de atividades do GitHub</b> (Clique para expandir)</summary>
   <br>
   <p align="center">
-    <!-- Arquivos gerados estaticamente via GitHub Actions para não quebrarem -->
-    <img src="metrics.svg" alt="Métricas do GitHub" width="70%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Machilas1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Métricas do GitHub" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machilas1407&layout=compact&langs_count=8&theme=tokyonight" alt="Top Linguagens" width="48%" />
   </p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Machilas1407/Machilas1407/output/github-snake.svg" alt="Snake animation" width="80%" />
-  </p>
+  
 </details>
 
 ---
