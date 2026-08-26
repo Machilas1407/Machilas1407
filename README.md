@@ -26,13 +26,15 @@
 &nbsp;
 
 <div>
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Machilas1407&theme=tokyonight&hide_border=true"/>
+  <!-- URL do Streak Stats corrigida para a oficial -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Machilas1407&theme=tokyonight&hide_border=true"/>
 </div>
 
 &nbsp;
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Machilas1407&theme=tokyo-night&hide_border=true&area=true"/>
+  <!-- Tema do Activity Graph corrigido de tokyo-night para tokyonight -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Machilas1407&theme=tokyonight&hide_border=true&area=true"/>
 </div>
 
 &nbsp;
@@ -68,12 +70,10 @@
 
 &nbsp;
 
-<!--
-  Gráfico de "cobrinha" animado com o histórico de contribuições.
-  Para isso funcionar, adicione o workflow do Platane/snk no seu
-  repositório Machilas1407/Machilas1407 (veja a nota abaixo do README).
+<!-- 
+  Aviso: Para esta imagem funcionar, o workflow do GitHub Actions (Platane/snk) 
+  DEVE estar configurado e ter rodado com sucesso no seu repositório.
 -->
 <div>
   <img src="https://raw.githubusercontent.com/Machilas1407/Machilas1407/output/github-contribution-grid-snake.svg"/>
 </div>
-
