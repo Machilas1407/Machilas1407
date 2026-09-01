@@ -17,7 +17,7 @@
       <p>Desenvolvedor Full Stack com forte atuação na arquitetura de plataformas digitais para gestão pública, mobilidade e saúde. Atualmente, sou <b>Engenheiro de Software Sênior na ONTL — Infra S.A. (Ministério dos Transportes)</b>.</p>
       <ul>
         <li>🚀 <b>Foco:</b> Aplicações geoespaciais, roteirização inteligente e dashboards analíticos.</li>
-        <li>🎓 <b>Formação:</b> Tecnólogo em Análise e Desenvolvimento de Sistemas (2021) e Crusando Pós-graduando em Engenharia de Software com Inteligência Artificial.</li>
+        <li>🎓 <b>Formação:</b> Tecnólogo em Análise e Desenvolvimento de Sistemas (2021) e Cursando Pós-graduando em Engenharia de Software com Inteligência Artificial.</li>
         <li>💡 <b>Projetos de Destaque:</b> <i>Rota Segura</i> (cálculo de riscos rodoviários com Leaflet/PostGIS), <i>Espaço Conecta</i>, simuladores para transporte de cargas e integração de dados georreferenciados.</li>
       </ul>
     </td>
